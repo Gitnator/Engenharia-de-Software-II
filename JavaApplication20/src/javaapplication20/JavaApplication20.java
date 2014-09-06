@@ -16,5 +16,6 @@ public class JavaApplication20 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("T.T");
+        System.out.println(":D :D :D :D :D :D :D :D :D :D :D");
     }
 }
