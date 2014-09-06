@@ -16,5 +16,6 @@ public class Teste {
     public static void main(String[] args) {
         System.out.println("Good night moon!");
         System.out.println(":D");
+        System.out.println("Now i get how this shit works");
     }
 }
